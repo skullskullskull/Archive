@@ -3,5 +3,5 @@ A script for Retropie to stream games from Internet Archive's Streaming Game Col
 
 ## Instructions for Use
 * To install: put `Internet Archive Stream.sh` in /home/pi/RetroPie/roms/ports/ and set it executeable (chmod +x)  
-* To run: launch from Ports menu, follow on screen instructions to select games. Keyboard required.  
+* To run: launch from Ports menu, follow on screen instructions to select games. Keyboard and Internet connection required.  
 * To remove: delete script from ~/RetroPie/roms/ports and remove ~/.InternetArchive/
