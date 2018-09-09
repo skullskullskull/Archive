@@ -31,7 +31,7 @@ function fetchXML {
 	else
 		Display_system_List=("${system_List[@]}")
 	fi
-clear
+	clear
 	echo "Select system"
 	select xmlchoice in "${Display_system_List[@]}" "EXIT                                     "
 		do
